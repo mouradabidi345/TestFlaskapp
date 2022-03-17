@@ -1,9 +1,7 @@
-# matplotlib==3.4.1
-# numpy==1.19.5
-# pandas==1.1.5
+Flask==1.1.4
+matplotlib==3.4.1
+numpy==1.19.5
+pandas==1.1.5
 scikit_learn==1.0.2
-# seaborn==0.11.1
+seaborn==0.11.1
 surprise==0.1
-
-
-<!-- working<form action="{{ url_for("gfg")}}" method="post"> -->
